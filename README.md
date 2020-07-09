@@ -180,6 +180,7 @@ Content
 Content Creators
 Content Delivery Network
 Content Discovery
+CMS - Content Management System
 Content Marketing
 Content Syndication
 Continuing Education
@@ -423,10 +424,10 @@ Graphic Design
 Grocery
 Grocery Delivery
 Guides
-Handmade
 Haptics
 Hardware
 Hardware Engineering
+Headless CMS
 Health and Safety
 Health Care
 Health Care IT
