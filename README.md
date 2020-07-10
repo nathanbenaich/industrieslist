@@ -919,6 +919,7 @@ Video Games
 Video on Demand
 Video Production
 Video Streaming
+Video Surveillance
 Video Understanding
 Virtual Assistant
 Virtual Currency
