@@ -887,7 +887,6 @@ Training
 Training Data
 Transaction Processing
 Transcription
-Translation
 Translation Service
 Transport
 Transportation
