@@ -588,7 +588,6 @@ Molecular Simulation
 Money Transfer
 Monitoring
 Mortgage
-Mortgages
 Motion Capture
 Music
 Music Streaming
@@ -953,7 +952,6 @@ Wine And Spirits
 Wired Telecommunications
 Wireless
 Women's Health
-Womens Health
 Workflow Software
 Workflow Automation
 Workplace Safety
