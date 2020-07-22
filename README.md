@@ -316,6 +316,7 @@ Email Security
 Embedded Software
 Embedded Systems
 Emerging Markets
+Emotion Analysis
 Employee Benefits
 Employment
 Encryption
@@ -694,7 +695,6 @@ Product Development
 Product Management
 Product Research
 Product Studio
-Productivity
 Productivity Tools
 Professional Networking
 Professional Services
