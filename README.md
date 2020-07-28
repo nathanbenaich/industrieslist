@@ -60,7 +60,7 @@ Authentication
 Auto Insurance
 Automation
 AutoML
-Automonous Vehicles
+Autonomous Vehicles
 Automotive
 Avatar
 Avatars
