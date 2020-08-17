@@ -472,7 +472,7 @@ In Vitro Fertilisation
 In-Memory Computing
 Incident Management
 Incubators
-Independent Music
+Indedent Music
 Indoor Farming
 Industrial
 Industrial Automation
@@ -647,6 +647,7 @@ Payroll
 PC Games
 Peer to Peer
 Penetration Testing
+Pensions
 Pentesting
 Peptides
 Performing Arts
