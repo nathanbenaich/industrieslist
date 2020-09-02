@@ -11,7 +11,7 @@ Additive Manufacturing
 Advanced Materials
 Adventure Travel
 Adversarial
-Advertising
+Advertisingrr
 Advertising Platforms
 Aerospace
 Aerospace & Defense
@@ -760,6 +760,7 @@ Robotic Kitchen
 Robotic Process Automation
 Robotics
 Robots
+Robust and reliable ML
 Route Optimisation
 Routing
 SaaS
