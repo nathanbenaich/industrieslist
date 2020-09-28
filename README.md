@@ -249,7 +249,6 @@ Decision Making
 DeepFake
 Defense
 Delivery
-Delivery Robot
 Delivery Robots
 Delivery Service
 Dental
@@ -354,6 +353,7 @@ Fake News
 Family
 Family Office
 Farming
+Farming Robots 
 Fashion
 Fast-Moving Consumer Goods
 Feature Management
@@ -451,7 +451,6 @@ Home Services
 Homeland Security
 Homomorphic Encryption
 Hospital
-Hospital Robot
 Hospital Robots
 Hospitality
 Hotel
