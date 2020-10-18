@@ -11,7 +11,7 @@ Additive Manufacturing
 Advanced Materials
 Adventure Travel
 Adversarial
-Advertisingrr
+Advertising
 Advertising Platforms
 Aerospace
 Aerospace & Defense
