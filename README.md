@@ -922,6 +922,7 @@ Video Chat
 Video Conferencing
 Video Editing
 Video Games
+Video Messaging
 Video on Demand
 Video Production
 Video Streaming
