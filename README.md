@@ -760,6 +760,7 @@ Rewards
 Ride Hailing
 Ride Sharing
 Risk Management
+RISC-V
 RNA therapy
 Robot Arm
 Robotic Kitchen
