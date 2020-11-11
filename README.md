@@ -277,6 +277,7 @@ Digital Twin
 Direct Marketing
 Direct Sales
 Distributors
+Disinfection Robots
 Diversified Consumer Services
 Diversified Financial Services
 Diversified Telecommunication Services
