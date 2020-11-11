@@ -442,7 +442,6 @@ Health Care IT
 Health Care Providers & Services
 Health Diagnostics
 Health Insurance
-Healthcare
 Hearing Aid
 Hedge Fund
 Hedge Funds
