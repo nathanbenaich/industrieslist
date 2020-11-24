@@ -552,6 +552,7 @@ Management Consulting
 Management Information Systems
 Manufacturing
 Mapping Services
+Marine Insurance
 Marine Technology
 Marine Transportation
 Market Research
