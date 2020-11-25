@@ -62,7 +62,6 @@ Automation
 AutoML
 Autonomous Vehicles
 Automotive
-Avatar
 Avatars
 Aviation
 B2B
