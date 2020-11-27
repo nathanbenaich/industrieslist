@@ -362,6 +362,7 @@ Farming Robots
 Fashion
 Fast-Moving Consumer Goods
 Feature Management
+Feature Store
 Federated Learning
 Fermentation
 Fertility
