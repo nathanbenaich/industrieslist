@@ -794,9 +794,7 @@ Self-Storage
 Semantic Search
 Semantic Web
 Semiconductor
-Semiconductors
 Sensor
-Sensors
 Sentiment Analysis
 SEO - Search Engine Optimisation
 Sequencing
