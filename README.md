@@ -636,7 +636,6 @@ Operating Systems
 OCR - Optical Character Recognition
 Optical Computing
 Optimisation
-Optimization
 Organic
 Organic Food
 Outdoor Advertising
