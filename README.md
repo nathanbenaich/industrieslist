@@ -237,7 +237,6 @@ Data Quality Monitoring
 Data Security
 Data Sharing
 Data Storage
-Data Visualisation
 Data Visualization
 Data Warehouse
 Database
