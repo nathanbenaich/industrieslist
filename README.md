@@ -231,6 +231,7 @@ Data Management
 Data Marketplace
 Data Mining
 Data Pipelines
+Data Platform
 Data Privacy
 Data Provider
 Data Quality Monitoring
