@@ -444,8 +444,8 @@ Health Care IT
 Health Care Providers & Services
 Health Diagnostics
 Health Insurance
+Health Monitoring
 Hearing Aid
-Hedge Fund
 Hedge Funds
 Higher Education
 Hiring
