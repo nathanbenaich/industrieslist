@@ -202,6 +202,7 @@ Creative AI
 Credit
 Credit Bureau
 Credit Cards
+Creator Economy
 CRISPR
 CRM
 Crowdfunding
@@ -819,6 +820,7 @@ Smart Cities
 Smart Compose
 Smart Contracts
 Smart Home
+SME Tools
 SMS
 SOC2 Compliance
 Soccer
