@@ -114,7 +114,6 @@ Charging
 Charity
 Charter Schools
 Chatbot
-Chatbots
 Checkout
 Chemical Manufacturing
 Chemical Synthesis
