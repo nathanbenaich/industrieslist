@@ -601,6 +601,7 @@ Monitoring
 Mortgage
 Motion Capture
 MPC - Secure Multiparty Computation
+mRNA Therapeutics
 Music
 Music Streaming
 Music Venues
@@ -917,6 +918,7 @@ User Research
 Utilities
 UX Design
 Vacation Rental
+Vaccine
 Venture Capital
 Version Control
 Veterinary
