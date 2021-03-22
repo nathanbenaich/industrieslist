@@ -344,6 +344,7 @@ ESG - Environmental and Social Governance
 eSports
 Estate Planning
 Ethereum
+ETL and ELT
 Event Management
 Event Promotion
 Events
@@ -762,6 +763,7 @@ Retail Technology
 Retailing
 Retirement
 Rewards
+Reverse ETL
 Ride Hailing
 Ride Sharing
 Risk Management
