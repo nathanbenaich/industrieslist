@@ -75,6 +75,7 @@ Big Data
 Billing
 Bioinformatics
 Biomass Energy
+Biomanufacturing
 Biometrics
 Biopharma
 Biotechnology
