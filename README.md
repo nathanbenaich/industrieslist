@@ -961,7 +961,6 @@ Web Browsers
 Web Design
 Web Development
 Web Hosting
-Web Scraping
 Wedding
 Wellness
 Whistleblowing
