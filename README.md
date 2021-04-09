@@ -532,7 +532,6 @@ Lending
 Licensing
 Life Insurance
 Life Science
-Life Sciences
 Lifestyle
 Limited Partner
 Linux
