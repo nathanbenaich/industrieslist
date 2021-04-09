@@ -189,7 +189,6 @@ Continuous Deployment
 Contract Analysis
 Contract Management
 Conversational AI
-Conversational Dialogue
 Cooking
 Corporate Training
 Cosmetics
@@ -264,7 +263,6 @@ Developer Tools
 DevOps
 Diabetes
 Diagnostics
-Dialogue Systems
 Differential Privacy
 Digital Asset Management
 Digital Assistant
