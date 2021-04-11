@@ -670,7 +670,6 @@ Personal Training
 Personalization
 Personalized Medicine
 Pets
-Pharmaceutical
 Pharmaceuticals
 Photo Editing
 Photo Sharing
