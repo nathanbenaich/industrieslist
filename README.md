@@ -332,6 +332,7 @@ Energy Storage
 Engineering Design
 Enterprise
 Enterprise Applications
+Enzymes
 ERP - Enterprise Resource Planning
 EV - Electric Vehicles
 Enterprise Search
