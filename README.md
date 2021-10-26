@@ -25,6 +25,7 @@ Airlines
 Alcohol
 Alternative Medicine
 Alternative Protein
+Algae
 Alzheimer
 Amazon Go
 Analytics
@@ -73,6 +74,7 @@ Beauty
 Benefits
 Big Data
 Billing
+Biofuels
 Bioinformatics
 Biomass Energy
 Biomanufacturing
