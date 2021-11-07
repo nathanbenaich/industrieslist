@@ -76,6 +76,7 @@ Big Data
 Billing
 Biofuels
 Bioinformatics
+Biomarker
 Biomass Energy
 Biomanufacturing
 Biometrics
@@ -642,6 +643,7 @@ Open Banking
 Open Source
 Operating Systems
 OCR - Optical Character Recognition
+Ophthalmology
 Optical Computing
 Optimisation
 Organic
