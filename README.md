@@ -627,6 +627,7 @@ Nightlife
 No Code
 Noise Cancellation
 Non Profit
+NFT - non-fungible tokens
 Note Taking
 Notebooks
 Nuclear
