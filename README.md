@@ -964,7 +964,7 @@ Waste Management
 Water
 Wealth Management
 Wearables
-Weather
+Weather and Meteorology
 Web Apps
 Web Browsers
 Web Design
